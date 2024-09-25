@@ -42,7 +42,6 @@ This project implements a Database Management System (DBMS) from scratch using C
 - **Sort**: Sort records by a specified attribute.
 - **Encrypt/Decrypt**: Encrypt and decrypt database files.
 - **Convert**: Convert the database into an HTML file.
-Here's your **Installation** section written in numbered points using Markdown format:
 
 ## Installation
 
