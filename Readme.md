@@ -8,7 +8,6 @@ This project implements a Database Management System (DBMS) from scratch using C
   - [Folder Operations](#folder-operations)
   - [File Operations](#file-operations)
   - [Database Operations](#database-operations)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## Features
@@ -42,51 +41,6 @@ This project implements a Database Management System (DBMS) from scratch using C
 - **Sort**: Sort records by a specified attribute.
 - **Encrypt/Decrypt**: Encrypt and decrypt database files.
 - **Convert**: Convert the database into an HTML file.
-
-## Installation
-
-To set up the Database Management System on your local machine, follow these steps:
-
-### Prerequisites:
-1. Ensure you have a C++ compiler installed (e.g., Visual Studio, g++, clang).
-2. Ensure Git is installed to clone the repository.
-3. Optionally, use an Integrated Development Environment (IDE) like **Visual Studio**, **Code::Blocks**, or **CLion** to edit and run the code.
-
-### Steps to Install:
-1. **Clone the Repository**:
-   - Open your terminal (or command prompt) and run the following command to clone the project repository to your local machine:
-   ```bash
-   git clone https://github.com/hazem2211/DMS.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   - Change your current directory to the newly cloned project folder:
-   ```bash
-   cd <project-directory>
-   ```
-
-3. **Open the Project in an IDE**:
-   
-   #### Using Visual Studio:
-   1. Open **Visual Studio**.
-   2. Go to **File > Open > Project/Solution** and navigate to the folder containing the cloned project.
-   3. Open the C++ source file(s) (e.g., `main.cpp`).
-   4. Press **Ctrl + Shift + B** to build the project.
-   5. Once the build is successful, press **Ctrl + F5** to run the application.
-
-   #### Using Code::Blocks:
-   1. Open **Code::Blocks**.
-   2. Go to **File > Open** and navigate to the folder containing the source file (e.g., `main.cpp`).
-   3. Compile and run the code using the IDE's built-in tools.
-
-   #### Using CLion:
-   1. Open **CLion**.
-   2. Select **Open** and choose the project directory.
-   3. CLion will automatically detect the CMake configuration.
-   4. Click on **Build** to compile the project, and use **Run** to execute the application.
-
-4. **Run the Application**:
-   - Once the build is successful, run the program using the IDE's execution command (e.g., **Ctrl + F5** in Visual Studio).
 
 ### Usage
 1. Run the application.
